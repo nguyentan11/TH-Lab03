@@ -1,0 +1,10 @@
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\bin\Debug\KeoBuaBao_Client.exe.config
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\bin\Debug\KeoBuaBao_Client.exe
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\bin\Debug\KeoBuaBao_Client.pdb
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\obj\Debug\KeoBuaBao_Client.csprojResolveAssemblyReference.cache
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\obj\Debug\KeoBuaBao_Client.Form1.resources
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\obj\Debug\KeoBuaBao_Client.Properties.Resources.resources
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\obj\Debug\KeoBuaBao_Client.csproj.GenerateResource.Cache
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\obj\Debug\KeoBuaBao_Client.csproj.CoreCompileInputs.cache
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\obj\Debug\KeoBuaBao_Client.exe
+D:\New folder\KeoBuaBao_Client\KeoBuaBao_Client\obj\Debug\KeoBuaBao_Client.pdb

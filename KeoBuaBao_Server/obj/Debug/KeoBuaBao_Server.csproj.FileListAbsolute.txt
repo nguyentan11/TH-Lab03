@@ -1,0 +1,7 @@
+D:\New folder\KeoBuaBao_Server\bin\Debug\KeoBuaBao_Server.exe.config
+D:\New folder\KeoBuaBao_Server\bin\Debug\KeoBuaBao_Server.exe
+D:\New folder\KeoBuaBao_Server\bin\Debug\KeoBuaBao_Server.pdb
+D:\New folder\KeoBuaBao_Server\obj\Debug\KeoBuaBao_Server.csprojResolveAssemblyReference.cache
+D:\New folder\KeoBuaBao_Server\obj\Debug\KeoBuaBao_Server.csproj.CoreCompileInputs.cache
+D:\New folder\KeoBuaBao_Server\obj\Debug\KeoBuaBao_Server.exe
+D:\New folder\KeoBuaBao_Server\obj\Debug\KeoBuaBao_Server.pdb
